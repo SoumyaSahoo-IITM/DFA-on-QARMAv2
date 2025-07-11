@@ -9,3 +9,7 @@ Accompanying source codes for the paper Unleashing the Power of Differential Fau
 6. QARMAv2-128-128_L1_key recovery(Part_2) : L1(k16, k17, k19, k21, k31) key recovery of QARMAv2-64.
 7. QARMAv2-128-128_L1_key recovery(Part_3) : L1(k4, k6, k7, k8, k9, k11, k12, k13, k14) key recovery of QARMAv2-64.
 8. QARMAv2-128-128_L1_key recovery(Part_4) : L1(k0, k1, k3, k5, k15) key recovery of QARMAv2-64.
+9. Fault_Injection_(r-1) : Fault Injection Simulation at the beginning of (r-1)th round of QARMAv2-64.
+10. Fault_Injection_(r-1) : Fault Injection Simulation at the beginning of (r-2)th round of QARMAv2-64.
+
+
